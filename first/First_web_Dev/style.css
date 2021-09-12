@@ -1,0 +1,35 @@
+.img {
+    position: relative;
+    text-align: center;
+}
+
+.left {
+    position: absolute;
+    top: 23px;
+    right: 1116px;
+    color: #915714;
+}
+
+
+/* .right {
+	position: absolute;
+	top: 25px;
+	left: 1116px;
+	color: #915714;
+    }
+    
+    .p {
+	font-size: larger;
+    } */
+
+.first {
+    background-color: #f0cf3a;
+    height: 804px;
+    width: 1440px;
+}
+
+.head {
+    color: #f0833a;
+    font-size: 20px;
+    font-family: 'Merienda One', cursive;
+}
